@@ -1,11 +1,11 @@
 const CONFIG = {
   couple: {
-    name1: "Ms.Wang",
-    name2: "Mr.Qi",
+    name1: "Deena",
+    name2: "Vidhun",
     connector: "和",
     together: "在一起"
   },
-  memorialDate: "2017-12-25T00:00:00",
+  memorialDate: "2026-09-07T00:00:00",
   letter: {
     paragraph1: [
       "哪天我老了，还跟和你热恋一样，",
