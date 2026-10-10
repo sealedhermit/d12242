@@ -1,40 +1,41 @@
 const CONFIG = {
   couple: {
     name1: "Deena",
-    name2: "Vidhun",
+    name2: "Vidhu",
     connector: "和",
     together: "在一起"
   },
   memorialDate: "2026-09-07T00:00:00",
   letter: {
     paragraph1: [
-      "哪天我老了，还跟和你热恋一样，",
-      "桌前给你发消息，",
-      "灯盏微黄，窗外风雨千墙，",
-      "半天酿出一句我想你了，",
-      "内心的原野，",
-      "时而流星追月，时而万马奔腾。"
+      "Somewhere Between the Letters, Deena ❤️，",
+      "You came to me in words so small，",
+      "Yet somehow, you touched it all.",
+      "A stranger once, now someone dear,",
+      "A gentle thought I love to keep near.",
+      "Your letters feel like a warm embrace,"
     ],
     paragraph2: [
-      "有时有月亮，",
-      "我就做一个九曲十八弯的梦，",
-      "每个转角都与你有关，",
-      "你对我笑了一下，",
-      "醒来我就发上一天呆。"
+      "I never planned for this to grow,",
+      "Yet here I am, feeling what I know.",
+      "If words could carry a heart's embrace,",
+      "I'd send you mine, with every phrase.",
+      "And if the world grows loud someday,"
     ],
     paragraph3: [
-      "现在我在长满星星的夜里，",
-      "阶前红豆坠满枝，",
-      "醉过知酒浓，",
-      "无物抵相思。"
+      "I hope my words can light your way.，",
+      "I don't know where our story will go,",
+      "But there's one little thing I want you to know—",
+      "Some people feel like home before we know why,",
+      "and Deena, you're my favourite reply. ❤️"
     ]
   },
   time: {
-    prefix: "第 ",
-    day: "天",
-    hour: "小时",
-    minute: "分钟",
-    second: "秒"
+    prefix: " ",
+    day: "days",
+    hour: "hours",
+    minute: "mins",
+    second: "sec"
   },
   seedText: "Miss You"
 };
