@@ -2,8 +2,8 @@ const CONFIG = {
   couple: {
     name1: "Deena",
     name2: "Vidhu",
-    connector: "和",
-    together: "在一起"
+    connector: "&",
+    together: ""
   },
   memorialDate: "2026-09-07T00:00:00",
   letter: {
@@ -37,5 +37,5 @@ const CONFIG = {
     minute: "mins",
     second: "sec"
   },
-  seedText: "Miss You"
+  seedText: "Deena"
 };
